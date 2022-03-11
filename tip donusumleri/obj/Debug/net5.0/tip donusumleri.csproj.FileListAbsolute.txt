@@ -1,0 +1,16 @@
+C:\Users\baris\Documents\source\tip donusumleri\bin\Debug\net5.0\tip donusumleri.exe
+C:\Users\baris\Documents\source\tip donusumleri\bin\Debug\net5.0\tip donusumleri.deps.json
+C:\Users\baris\Documents\source\tip donusumleri\bin\Debug\net5.0\tip donusumleri.runtimeconfig.json
+C:\Users\baris\Documents\source\tip donusumleri\bin\Debug\net5.0\tip donusumleri.runtimeconfig.dev.json
+C:\Users\baris\Documents\source\tip donusumleri\bin\Debug\net5.0\tip donusumleri.dll
+C:\Users\baris\Documents\source\tip donusumleri\bin\Debug\net5.0\ref\tip donusumleri.dll
+C:\Users\baris\Documents\source\tip donusumleri\bin\Debug\net5.0\tip donusumleri.pdb
+C:\Users\baris\Documents\source\tip donusumleri\obj\Debug\net5.0\tip donusumleri.csproj.AssemblyReference.cache
+C:\Users\baris\Documents\source\tip donusumleri\obj\Debug\net5.0\tip donusumleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Documents\source\tip donusumleri\obj\Debug\net5.0\tip donusumleri.AssemblyInfoInputs.cache
+C:\Users\baris\Documents\source\tip donusumleri\obj\Debug\net5.0\tip donusumleri.AssemblyInfo.cs
+C:\Users\baris\Documents\source\tip donusumleri\obj\Debug\net5.0\tip donusumleri.csproj.CoreCompileInputs.cache
+C:\Users\baris\Documents\source\tip donusumleri\obj\Debug\net5.0\tip donusumleri.dll
+C:\Users\baris\Documents\source\tip donusumleri\obj\Debug\net5.0\ref\tip donusumleri.dll
+C:\Users\baris\Documents\source\tip donusumleri\obj\Debug\net5.0\tip donusumleri.pdb
+C:\Users\baris\Documents\source\tip donusumleri\obj\Debug\net5.0\tip donusumleri.genruntimeconfig.cache
