@@ -16,10 +16,10 @@ namespace hata_yonetimi
             {
                 Console.WriteLine("hata: " +ex.Message.ToString());
             }
-            /*finally
+            finally
             {
                 Console.WriteLine("islem tamamlandi.");
-            }*/
+            }
             
             try
             {
