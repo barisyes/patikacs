@@ -1,0 +1,16 @@
+C:\Users\baris\Documents\source\donguler for each\bin\Debug\net5.0\donguler for each.exe
+C:\Users\baris\Documents\source\donguler for each\bin\Debug\net5.0\donguler for each.deps.json
+C:\Users\baris\Documents\source\donguler for each\bin\Debug\net5.0\donguler for each.runtimeconfig.json
+C:\Users\baris\Documents\source\donguler for each\bin\Debug\net5.0\donguler for each.runtimeconfig.dev.json
+C:\Users\baris\Documents\source\donguler for each\bin\Debug\net5.0\donguler for each.dll
+C:\Users\baris\Documents\source\donguler for each\bin\Debug\net5.0\ref\donguler for each.dll
+C:\Users\baris\Documents\source\donguler for each\bin\Debug\net5.0\donguler for each.pdb
+C:\Users\baris\Documents\source\donguler for each\obj\Debug\net5.0\donguler for each.csproj.AssemblyReference.cache
+C:\Users\baris\Documents\source\donguler for each\obj\Debug\net5.0\donguler for each.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Documents\source\donguler for each\obj\Debug\net5.0\donguler for each.AssemblyInfoInputs.cache
+C:\Users\baris\Documents\source\donguler for each\obj\Debug\net5.0\donguler for each.AssemblyInfo.cs
+C:\Users\baris\Documents\source\donguler for each\obj\Debug\net5.0\donguler for each.csproj.CoreCompileInputs.cache
+C:\Users\baris\Documents\source\donguler for each\obj\Debug\net5.0\donguler for each.dll
+C:\Users\baris\Documents\source\donguler for each\obj\Debug\net5.0\ref\donguler for each.dll
+C:\Users\baris\Documents\source\donguler for each\obj\Debug\net5.0\donguler for each.pdb
+C:\Users\baris\Documents\source\donguler for each\obj\Debug\net5.0\donguler for each.genruntimeconfig.cache
