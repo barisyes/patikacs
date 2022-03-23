@@ -1,0 +1,16 @@
+C:\Users\baris\Documents\source\hazir metotlar string\bin\Debug\net5.0\hazir metotlar string.exe
+C:\Users\baris\Documents\source\hazir metotlar string\bin\Debug\net5.0\hazir metotlar string.deps.json
+C:\Users\baris\Documents\source\hazir metotlar string\bin\Debug\net5.0\hazir metotlar string.runtimeconfig.json
+C:\Users\baris\Documents\source\hazir metotlar string\bin\Debug\net5.0\hazir metotlar string.runtimeconfig.dev.json
+C:\Users\baris\Documents\source\hazir metotlar string\bin\Debug\net5.0\hazir metotlar string.dll
+C:\Users\baris\Documents\source\hazir metotlar string\bin\Debug\net5.0\ref\hazir metotlar string.dll
+C:\Users\baris\Documents\source\hazir metotlar string\bin\Debug\net5.0\hazir metotlar string.pdb
+C:\Users\baris\Documents\source\hazir metotlar string\obj\Debug\net5.0\hazir metotlar string.csproj.AssemblyReference.cache
+C:\Users\baris\Documents\source\hazir metotlar string\obj\Debug\net5.0\hazir metotlar string.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Documents\source\hazir metotlar string\obj\Debug\net5.0\hazir metotlar string.AssemblyInfoInputs.cache
+C:\Users\baris\Documents\source\hazir metotlar string\obj\Debug\net5.0\hazir metotlar string.AssemblyInfo.cs
+C:\Users\baris\Documents\source\hazir metotlar string\obj\Debug\net5.0\hazir metotlar string.csproj.CoreCompileInputs.cache
+C:\Users\baris\Documents\source\hazir metotlar string\obj\Debug\net5.0\hazir metotlar string.dll
+C:\Users\baris\Documents\source\hazir metotlar string\obj\Debug\net5.0\ref\hazir metotlar string.dll
+C:\Users\baris\Documents\source\hazir metotlar string\obj\Debug\net5.0\hazir metotlar string.pdb
+C:\Users\baris\Documents\source\hazir metotlar string\obj\Debug\net5.0\hazir metotlar string.genruntimeconfig.cache
