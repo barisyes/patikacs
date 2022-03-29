@@ -1,0 +1,16 @@
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\bin\Debug\net5.0\koleksiyonlar_soru1.exe
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\bin\Debug\net5.0\koleksiyonlar_soru1.deps.json
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\bin\Debug\net5.0\koleksiyonlar_soru1.runtimeconfig.json
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\bin\Debug\net5.0\koleksiyonlar_soru1.runtimeconfig.dev.json
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\bin\Debug\net5.0\koleksiyonlar_soru1.dll
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\bin\Debug\net5.0\ref\koleksiyonlar_soru1.dll
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\bin\Debug\net5.0\koleksiyonlar_soru1.pdb
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\obj\Debug\net5.0\koleksiyonlar_soru1.csproj.AssemblyReference.cache
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\obj\Debug\net5.0\koleksiyonlar_soru1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\obj\Debug\net5.0\koleksiyonlar_soru1.AssemblyInfoInputs.cache
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\obj\Debug\net5.0\koleksiyonlar_soru1.AssemblyInfo.cs
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\obj\Debug\net5.0\koleksiyonlar_soru1.csproj.CoreCompileInputs.cache
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\obj\Debug\net5.0\koleksiyonlar_soru1.dll
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\obj\Debug\net5.0\ref\koleksiyonlar_soru1.dll
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\obj\Debug\net5.0\koleksiyonlar_soru1.pdb
+C:\Users\baris\Documents\source\odev2\koleksiyonlar_soru1\obj\Debug\net5.0\koleksiyonlar_soru1.genruntimeconfig.cache
