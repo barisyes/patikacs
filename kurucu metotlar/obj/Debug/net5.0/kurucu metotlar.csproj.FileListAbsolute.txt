@@ -1,0 +1,16 @@
+C:\Users\baris\Documents\source\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.exe
+C:\Users\baris\Documents\source\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.deps.json
+C:\Users\baris\Documents\source\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.runtimeconfig.json
+C:\Users\baris\Documents\source\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.runtimeconfig.dev.json
+C:\Users\baris\Documents\source\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.dll
+C:\Users\baris\Documents\source\kurucu metotlar\bin\Debug\net5.0\ref\kurucu metotlar.dll
+C:\Users\baris\Documents\source\kurucu metotlar\bin\Debug\net5.0\kurucu metotlar.pdb
+C:\Users\baris\Documents\source\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.csproj.AssemblyReference.cache
+C:\Users\baris\Documents\source\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Documents\source\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.AssemblyInfoInputs.cache
+C:\Users\baris\Documents\source\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.AssemblyInfo.cs
+C:\Users\baris\Documents\source\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.csproj.CoreCompileInputs.cache
+C:\Users\baris\Documents\source\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.dll
+C:\Users\baris\Documents\source\kurucu metotlar\obj\Debug\net5.0\ref\kurucu metotlar.dll
+C:\Users\baris\Documents\source\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.pdb
+C:\Users\baris\Documents\source\kurucu metotlar\obj\Debug\net5.0\kurucu metotlar.genruntimeconfig.cache
