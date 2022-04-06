@@ -1,0 +1,16 @@
+C:\Users\baris\Documents\source\struct kavrami\bin\Debug\net5.0\struct kavrami.exe
+C:\Users\baris\Documents\source\struct kavrami\bin\Debug\net5.0\struct kavrami.deps.json
+C:\Users\baris\Documents\source\struct kavrami\bin\Debug\net5.0\struct kavrami.runtimeconfig.json
+C:\Users\baris\Documents\source\struct kavrami\bin\Debug\net5.0\struct kavrami.runtimeconfig.dev.json
+C:\Users\baris\Documents\source\struct kavrami\bin\Debug\net5.0\struct kavrami.dll
+C:\Users\baris\Documents\source\struct kavrami\bin\Debug\net5.0\ref\struct kavrami.dll
+C:\Users\baris\Documents\source\struct kavrami\bin\Debug\net5.0\struct kavrami.pdb
+C:\Users\baris\Documents\source\struct kavrami\obj\Debug\net5.0\struct kavrami.csproj.AssemblyReference.cache
+C:\Users\baris\Documents\source\struct kavrami\obj\Debug\net5.0\struct kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Documents\source\struct kavrami\obj\Debug\net5.0\struct kavrami.AssemblyInfoInputs.cache
+C:\Users\baris\Documents\source\struct kavrami\obj\Debug\net5.0\struct kavrami.AssemblyInfo.cs
+C:\Users\baris\Documents\source\struct kavrami\obj\Debug\net5.0\struct kavrami.csproj.CoreCompileInputs.cache
+C:\Users\baris\Documents\source\struct kavrami\obj\Debug\net5.0\struct kavrami.dll
+C:\Users\baris\Documents\source\struct kavrami\obj\Debug\net5.0\ref\struct kavrami.dll
+C:\Users\baris\Documents\source\struct kavrami\obj\Debug\net5.0\struct kavrami.pdb
+C:\Users\baris\Documents\source\struct kavrami\obj\Debug\net5.0\struct kavrami.genruntimeconfig.cache

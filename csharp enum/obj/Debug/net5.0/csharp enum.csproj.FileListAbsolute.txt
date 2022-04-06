@@ -1,0 +1,16 @@
+C:\Users\baris\Documents\source\csharp enum\bin\Debug\net5.0\csharp enum.exe
+C:\Users\baris\Documents\source\csharp enum\bin\Debug\net5.0\csharp enum.deps.json
+C:\Users\baris\Documents\source\csharp enum\bin\Debug\net5.0\csharp enum.runtimeconfig.json
+C:\Users\baris\Documents\source\csharp enum\bin\Debug\net5.0\csharp enum.runtimeconfig.dev.json
+C:\Users\baris\Documents\source\csharp enum\bin\Debug\net5.0\csharp enum.dll
+C:\Users\baris\Documents\source\csharp enum\bin\Debug\net5.0\ref\csharp enum.dll
+C:\Users\baris\Documents\source\csharp enum\bin\Debug\net5.0\csharp enum.pdb
+C:\Users\baris\Documents\source\csharp enum\obj\Debug\net5.0\csharp enum.csproj.AssemblyReference.cache
+C:\Users\baris\Documents\source\csharp enum\obj\Debug\net5.0\csharp enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\baris\Documents\source\csharp enum\obj\Debug\net5.0\csharp enum.AssemblyInfoInputs.cache
+C:\Users\baris\Documents\source\csharp enum\obj\Debug\net5.0\csharp enum.AssemblyInfo.cs
+C:\Users\baris\Documents\source\csharp enum\obj\Debug\net5.0\csharp enum.csproj.CoreCompileInputs.cache
+C:\Users\baris\Documents\source\csharp enum\obj\Debug\net5.0\csharp enum.dll
+C:\Users\baris\Documents\source\csharp enum\obj\Debug\net5.0\ref\csharp enum.dll
+C:\Users\baris\Documents\source\csharp enum\obj\Debug\net5.0\csharp enum.pdb
+C:\Users\baris\Documents\source\csharp enum\obj\Debug\net5.0\csharp enum.genruntimeconfig.cache
